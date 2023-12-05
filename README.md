@@ -2,6 +2,8 @@
 
 My Fisrt NestJS API.
 
+A Simple Nest API that let me have controll of a fell articles.
+
 ## Installation
 
 ```bash
